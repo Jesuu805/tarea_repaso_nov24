@@ -1,0 +1,24 @@
+Welcome to the Warhammer Collection,
+
+this is the sixth update (June 2022) we're doing on the WH lore and thanks to the feedback received we managed to archive:
+
+- an improved sorting
+- added new released books
+- replaced/deleted many non-retail
+
+
+ALL the books have been renamed with Author's Name Surname - Book title (Series) for an easy search.
+
+
+The retail tag means how the book was ripped 
+
+[Retail] - Books that i have bought myself and i have removed the DRM thru calibre
+(Retail) - Books shared by other users whom DRM has been remove correcly thru calibre
+(retail) - Books shared by other users who purchased the books but not drm'ed correctly with calibre
+
+With this im hoping to give the reader a complete collection of WH books in their best available format and somehow well sorted.
+
+If you enjoyed this and found some issues such as typos, bad scans/conversions, misplaced books and pretty much anything please send me a message. 
+
+
+Lastly a huge thanks goes to all the people that helped out with this project. Thank you!
